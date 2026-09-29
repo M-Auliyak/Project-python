@@ -1,9 +1,3 @@
-"""
-KASUS 02 - PEWARISAN SIFAT (INHERITANCE)
-Sistem Rental Kendaraan
-"""
-
-
 class Kendaraan:
     """Class induk: fondasi umum seluruh armada."""
 
