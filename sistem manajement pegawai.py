@@ -1,9 +1,3 @@
-"""
-KASUS 03 - MULTIPLE INHERITANCE
-Sistem Manajemen Pegawai
-"""
-
-
 class Pegawai:
     """Identitas pegawai."""
 
